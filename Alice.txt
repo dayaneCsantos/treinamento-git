@@ -1,2 +1,2 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
-Vou ajudar vocês a entenderem como funciona o Git
+Vou ajudar vocês a entenderem o funcionamento interno do Git
