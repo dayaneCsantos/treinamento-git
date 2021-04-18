@@ -1,3 +1,4 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 Alteração realizada por outro colaborador 1.
 Alteração realizada por outro colaborador 2.
+Alteração realizada por outro colaborador 3.
